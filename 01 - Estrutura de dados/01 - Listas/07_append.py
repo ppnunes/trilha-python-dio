@@ -1,3 +1,5 @@
+# [].append adiciona elementos em uma lista
+
 lista = []
 
 lista.append(1)
